@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: crimson;
+}
+body {
+    background-color: #efeee7;
+}
+.container {
+    margin-bottom: -50%
+}
+.one {
+    float: left;
+    margin-left: 10%;
+    
+}
+.two { 
+    float: right; 100%;
+    margin-right: 30%
+    
+    
+
+}
+a {
+    color: red;
+}
+h2 {
+    color: brown;
+}
+
+div {
+    
+}
